@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Akshat 👋</h1>
 
 <p align="center">
-  <b>Full-stack engineer</b> · 4+ years · React, SvelteKit, Vue3, Nextjs TypeScript<br/>
+  <b>Full-stack engineer</b> · 4+ years · React, SvelteKit, Vue 3, Next.js, TypeScript<br/>
   I build fast web products and ship AI features to production.
 </p>
 
@@ -18,7 +18,7 @@
 | :--- | :--- |
 | 🏦 **Angel One** · fintech | Cut bundle size **12.5MB → 295KB** (91% smaller). Cut login failures **~2,000/day → under 100**. |
 | 🎓 **[PrepAngel](https://prepangel.com)** · edtech | Founding engineer. Grew to **2,300+ users and 195 paying**. Built AI video and OCR pipelines. |
-| 📈 **Tradesea** · trading | Built AI chat that controls trading charts in plain language and backtesting tools  |
+| 📈 **Tradesea** · trading | Built AI chat that controls trading charts in plain language and backtesting tools.  |
 | 🎥 **Airmeet** · video | Real-time Q&A with Kafka. Picture-in-Picture for video calls. |
 
 ### 🛠️ Stack
