@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Akshat 👋</h1>
 
 <p align="center">
-  <b>Full-stack engineer</b> · 4+ years · React, SvelteKit, TypeScript<br/>
+  <b>Full-stack engineer</b> · 4+ years · React, SvelteKit, Vue3, Nextjs TypeScript<br/>
   I build fast web products and ship AI features to production.
 </p>
 
