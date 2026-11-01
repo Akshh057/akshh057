@@ -1,21 +1,40 @@
-HEADLINE
+<h1 align="center">Hi, I'm Akshat 👋</h1>
 
-Full-Stack Engineer | React, SvelteKit, TypeScript | Built PrepAngel (2,300+ users) | Ex-Angel One | Open to remote roles
+<p align="center">
+  <b>Full-stack engineer</b> · 4+ years · React, SvelteKit, TypeScript<br/>
+  I build fast web products and ship AI features to production.
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to-Remote_Roles-22c55e?style=for-the-badge" alt="Open to remote roles"/>
+  <a href="mailto:akshh057@gmail.com"><img src="https://img.shields.io/badge/Email-akshh057%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-ABOUT
+---
 
-I'm a full-stack engineer with 4+ years of experience building fast, reliable web products in fintech, edtech and video.
+### ⚡ Highlights
 
-A few things I've done:
+| Where | What I did |
+| :--- | :--- |
+| 🏦 **Angel One** · fintech | Cut bundle size **12.5MB → 295KB** (91% smaller). Cut login failures **~2,000/day → under 100**. |
+| 🎓 **[PrepAngel](https://prepangel.com)** · edtech | Founding engineer. Grew to **2,300+ users and 195 paying**. Built AI video and OCR pipelines. |
+| 📈 **Tradesea** · trading | Built AI chat that controls trading charts in plain language and backtesting tools  |
+| 🎥 **Airmeet** · video | Real-time Q&A with Kafka. Picture-in-Picture for video calls. |
 
-• At Angel One, I cut our web app bundle from 12.5MB to 295KB (91% smaller).
-• I took login failures from ~2,000 a day to under 100 by building a refresh-token system.
-• As founding engineer at PrepAngel, I built an exam-prep platform from zero to 2,300+ users and 195 paying customers.
-• At Tradesea, I built AI chat that lets traders control charts in plain language.
+### 🛠️ Stack
 
-I work AI-first. I use AI coding agents daily and ship LLM features to production, so I move fast without cutting corners.
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Agents-000000?style=flat-square&logo=anthropic&logoColor=white"/>
+</p>
 
-Stack: TypeScript, React, SvelteKit, Vue, Node.js, PostgreSQL, Cloudflare Workers.
+### 🤖 How I work
 
-Open to remote roles, full-time or contract. Reach me at akshh057@gmail.com.
+AI-first. I build every day with AI coding agents, so I ship fast and still keep the code clean and tested.
