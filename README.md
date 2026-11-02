@@ -18,7 +18,7 @@
 | :--- | :--- |
 | 🏦 **Angel One** · fintech | Cut bundle size **12.5MB → 295KB** (91% smaller). Cut login failures **~2,000/day → under 100**. |
 | 🎓 **[PrepAngel](https://prepangel.com)** · edtech | Founding engineer. Grew to **2,300+ users and 195 paying**. Built AI video and OCR pipelines. |
-| 📈 **Tradesea** · trading | Built AI chat that controls trading charts in plain language and backtesting tools.  |
+| 📈 **Tradesea** · trading | Building AI chat that controls trading charts in plain language and backtesting tools.  |
 | 🎥 **Airmeet** · video | Real-time Q&A with Kafka. Picture-in-Picture for video calls. |
 
 ### 🛠️ Stack
